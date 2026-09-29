@@ -1,0 +1,3 @@
+[submodule "external/custom-vector"]
+	path = external/custom-vector
+	url = https://github.com/NiteenDigarse/cpp-custom-vector.git
